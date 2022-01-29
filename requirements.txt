@@ -2,7 +2,7 @@ absl-py==1.0.0
 astunparse==1.6.3
 cachetools==5.0.0
 certifi==2021.10.8
-charset-normalizer==2.010
+charset-normalizer==2.0.1
 click==8.0.3
 entrypoints==0.3
 Flask==2.0.2
