@@ -4,7 +4,6 @@ import keras
 from keras.layers import *
 from keras.models import *
 from keras.preprocessing import image
-from sklearn.preprocessing import StandardScaler
 from flask import Flask, render_template, request
 from werkzeug.utils import secure_filename
 from keras.applications.resnet import ResNet50, preprocess_input, decode_predictions
