@@ -8,4 +8,3 @@ The bot is useful -
 2. Google Lens - This concept can be seen in Google lens too.
 3. Automatic surveillance (CCTVs) - Notify when a suspicious activity is caught.
 
-The project is deployed on - https://imagecaption-bot.herokuapp.com/
